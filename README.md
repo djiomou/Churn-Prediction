@@ -6,8 +6,8 @@
 - Connaître un segment de clients à risque de désabonnement, permettrait à une entreprise d'engager de manière proactive des offres spéciales pour fidéliser ce segment et éviter de les perdre. 
 
 ## Objectif :
-- Il s'agira de créer un modèle simple de prédiction du taux de désabonnement des clients d'une compagnie bancaire. 
-- Nous utiliserons deux algorithmes simples  de classification modéliser les clients désabonnés, 
+- Il s'agira de créer un modèle simple de prédiction du taux de désabonnement des clients. 
+- Nous utiliserons deux algorithmes simples  de classification pour modéliser les clients désabonnés, 
 - Evaluation du modèle de prédiction
 
 ## Libraries à utilisées
@@ -23,7 +23,7 @@
  - Chercher les meilleurs paramètres
  - etc
 ## Description des données
-- Les donnnées utilisées sont celles d'une compagnie de telécommunication récupérées sur kaggle.
+- Les donnnées utilisées sont celles d'une compagnie bancaire récupérées sur kaggle.
 - Chaque ligne représente un client, chaque colonne contient les attributs du client décrits dans la colonne Métadonnées.
 - Les données brutes contiennent 7043 lignes (clients) et 21 colonnes (caractéristiques).
 
